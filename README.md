@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-  I'm a passionate DevOps engineer with a background in Electrical and Electronics Engineering (EEE). I transitioned into DevOps early in my career and have gained hands-on experience with a wide range of tools and technologies in cloud computing, CI/CD, and automation.
+  I'm a passionate DevOps engineer. I have gained hands-on experience with a wide range of tools and technologies in cloud computing, CI/CD, and automation.
 </p>
 <p align="left">
   💻 I'm currently working on enhancing my skills in DevOps practices, cloud platforms like <strong>Azure</strong> and <strong>GCP</strong>, and <strong>networking</strong>.<br />
