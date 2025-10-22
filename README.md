@@ -1,48 +1,55 @@
 <h1 align="center">Hi 👋, I'm Sai Jathin</h1>
-<h3 align="center">🚀 Passionate DevOps Engineer | Cloud • Automation • CI/CD • Kubernetes</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
----
-
-### 🧰 I have experience in  
+<h3 align="left">About Me</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,terraform,ansible,docker,kubernetes,helm,jenkins,github,git,go,python,bash,vscode" />
+  I'm a passionate DevOps engineer. I have gained hands-on experience with a wide range of tools and technologies in cloud computing, CI/CD, and automation.
 </p>
-
----
-
-### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/sai-jathin-koyyada-2a16731b4/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sai Jathin LinkedIn" height="40" />
-  </a>
-  <a href="mailto:saijathin51@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Sai Jathin Gmail" height="40" />
-  </a>
-  <a href="https://github.com/saijathin51" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="Sai Jathin GitHub" height="40" />
+  💻 I'm currently working on enhancing my skills in DevOps practices, cloud platforms like <strong>Azure</strong> and <strong>GCP</strong>, and <strong>networking</strong>.<br />
+  🚀 I have worked with technologies like <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>Terraform</strong>, <strong>Jenkins</strong>, <strong>Ansible</strong>, <strong>ArgoCD</strong>, <strong>Helm</strong>, <strong>Git</strong>, <strong>GitHub</strong>, and <strong>VSCode</strong>.<br />
+  🌱 I’m constantly learning and improving my expertise in <strong>Go Language</strong>, <strong>Python</strong>, and <strong>scripting</strong>.<br />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sai-jathin-koyyada-2a16731b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Jathin LinkedIn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My GitHub Stats</h3>
+<p align="left">
+  <a href="https://github.com/saijathin51">
+    <img src="https://github-readme-stats.vercel.app/api?username=saijathin51&count_private=true&show_icons=true&hide=prs&theme=dark" alt="Sai Jathin's GitHub Stats" />
   </a>
 </p>
 
----
-
-### 🚀 Featured Projects  
-
-| Project | Description | Tools & Tech |
-|----------|--------------|--------------|
-| 🧱 **terraform-ansible-aws-automation** | Automated AWS infra provisioning and configuration with Terraform, Ansible & GitHub Actions. | Terraform · Ansible · AWS · GitHub Actions |
-| ☸️ **techdome-devops-infra** | Full-stack infra setup with Docker, Kubernetes, and Terraform. | Docker · Kubernetes · Terraform |
-| 🧩 **java-jenkins-argocd-pipeline** | CI/CD for Java app using Jenkins, Maven, Helm & ArgoCD. | Jenkins · Maven · Helm · ArgoCD |
-| ⚙️ **go-docker-helm-argocd-demo** | GitHub Actions pipeline deploying Go app via Helm & ArgoCD (GitOps). | GitHub Actions · Helm · ArgoCD · Kubernetes |
-| 🛡️ **ultimate-devsecops-cicd-pipeline** | End-to-end DevSecOps pipeline with Jenkins, SonarQube, Trivy & OWASP. | Jenkins · SonarQube · Trivy · Docker · AWS |
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saijathin51&count_private=true&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saijathin51&theme=tokyonight" height="165"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
 </p>
 
----
+<h3 align="left">Recent Projects:</h3>
+<ul>
+  <li><strong>CI/CD Pipeline with Jenkins & Docker</strong>: Implemented a full CI/CD pipeline using Jenkins, Docker, and GitHub Actions to automate deployments.</li>
+  <li><strong>Infrastructure Automation with Terraform</strong>: Automated infrastructure provisioning and management on AWS using Terraform.</li>
+  <li><strong>Kubernetes Cluster Setup</strong>: Set up a production-ready Kubernetes cluster on AWS, with automated scaling and logging.</li>
+  <li><strong>Cloud Migration</strong>: Migrated an on-premise application to Azure using DevOps pipelines and cloud-native services.</li>
+</ul>
 
-<h3 align="center">💬 Let's Collaborate and Build Something Amazing!</h3>
+<h3 align="left">Get in Touch:</h3>
+<ul>
+  <li>📧 Email: <a href="mailto:saijathin51@gmail.com">saijathin51@gmail.com</a></li>
+  <li>🌐 LinkedIn: <a href="https://linkedin.com/in/sai-jathin-koyyada-2a16731b4/">Sai Jathin LinkedIn</a></li>
+  <li>🧑‍💻 GitHub: <a href="https://github.com/saijathin51">Sai Jathin GitHub</a></li>
+  <li>🧑‍💻 Portfolio: <a href="https://saijathin51.github.io">Sai Jathin Portfolio</a></li>
+
+</ul>
